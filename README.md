@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
@@ -13,5 +12,3 @@
     <script src="sketch.js"></script>
   </body>
 </html>
-
-ou https://editor.p5js.org/Leandro_Gabardo/sketches/kEVlNGuKc
